@@ -498,7 +498,7 @@
         "max_validators": 100,
         "max_entries": 7,
         "historical_entries": 10000,
-        "bond_denom": "stake",
+        "bond_denom": "ucli",
         "min_commission_rate": "0.000000000000000000"
       },
       "last_total_power": "0",
